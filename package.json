@@ -1,0 +1,29 @@
+{
+  "name": "kelp-argv",
+  "version": "0.0.3",
+  "description": "parse command-line arguments ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "author": "Lsong",
+  "license": "MIT",
+  "keywords": [
+    "kelp",
+    "cli",
+    "parser",
+    "argv"
+  ],
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/song940/kelp-argv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/song940/kelp-argv/issues"
+  },
+  "homepage": "https://github.com/song940/kelp-argv#readme"
+}
